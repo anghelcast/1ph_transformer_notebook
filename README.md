@@ -1,5 +1,5 @@
 # 1ph_transformer_notebook
-### Just a simple sketch transformer notebook for matlab/octave problem solving
+### Just a simple transformer sketch notebook for matlab/octave problem solving
 
 ### Here are some pictures from the transformer used in this notebook 
 

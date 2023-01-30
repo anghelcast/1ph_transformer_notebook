@@ -1,7 +1,7 @@
 # 1ph_transformer_notebook
 ### Just a simple transformer sketch notebook for matlab/octave problem solving
 
-### Here are some pictures from the transformer used in this notebook 
+### Here are some pictures from the single phase transformer used in this example
 
 ![File_001](https://user-images.githubusercontent.com/54869347/77871738-41f07480-7202-11ea-8a0c-b66ac6215764.jpg)
 
